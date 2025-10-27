@@ -1,5 +1,5 @@
 <h1 align="center">Hi! 👋, I'm Padmakar</h1>
-<h3 align="center">A passionate Full Stack Java developer from India</h3>
+<h3 align="center">A passionate Full Stack developer from India</h3>
 <h1 align="center">About me! 🚀</h1>
 
 <img align="right" alt="Coding" width="350" src="https://camo.githubusercontent.com/e63681b0034675db95215e54e2f9ced79e61de86acaaadba43bdbbd47b7ec4e8/68747470733a2f2f632e74656e6f722e636f6d2f327579454e526d69557430414141414d2f636f64696e672e676966" style="margin-top: 10px; height: 200px;">
@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **linux and Web3.**
 
-- 📫 How to reach me **2002Padmakar@gmail.com**
+- 📫 How to reach me **https://surl.li/jgico**
 
 - ⚡ Fun fact : **I am a Sports buff .**
 
