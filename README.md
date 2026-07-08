@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <a href="https://surl.li/jgico">
+  <a href="https://www.linkedin.com/safety/go/?url=https%3A%2F%2Fportfolio-website-o8srgevjw-padmakar4141s-projects%2Evercel%2Eapp&urlhash=90Lk&mt=cr_SVhXCRVFkQ0sSLG30IhqRqQyX2jnITF7JpJU5x7UQ0XBckpyGYJpCz4BMmNjND7yaegZdO3USt0qIdF0Q-0cWRpKL&isSdui=true">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-0EA5E9?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:2002Padmakar@gmail.com">
